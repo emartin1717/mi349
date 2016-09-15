@@ -1,0 +1,30 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background-size: 600px;
+  background: #ccc;
+}
+
+h1 {
+  align-content: center;
+  background-color: #A52A2A;
+  text-align: center;
+  margin: 50px;
+  padding: 100px;
+  font-size: 60px;
+
+}
+
+h2 {
+  text-align: center;
+  background-color: #ccc;
+  margin: 50px;
+  font-size: 45px;
+  font-style: italic;
+}
+
+h3 {
+  margin: 50px;
+}
