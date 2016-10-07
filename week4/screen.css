@@ -1,0 +1,12 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  background-color: #e5d2b3;
+
+}
+
+nav {
+  display: inline;
+  padding-right: 10px;
+}
