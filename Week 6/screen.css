@@ -1,0 +1,67 @@
+/* Add your CSS below */
+/* Example: adding a background color to the HTML body */
+body {
+  background: linear-gradient(180deg, #bdc3c7, #bdc3c7 20%, #fff);
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.2);
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 1em;
+  text-align: center;
+  width: 1000px;
+}
+
+.recipe-image {
+  border-radius: 15%;
+  border: 0px solid;
+  box-shadow: 0 0px 20px rgba(0,0,0,0.3);
+  margin: 25px;
+}
+
+.recipe-title {
+  color: #2c3e50;
+  font-size: 3.2em;
+  font-weight: 100;
+  margin: 0px;
+  margin-top: 20px;
+  font-family: Helvetica, sans-serif;
+}
+
+.recipe-vitals {
+  color: #737373;
+  margin: .2em;
+  font-size: 20px;
+  font-family: Helvetica, sans-serif;
+}
+
+.items {
+  list-style-type: none;
+  margin: .5em 0 1em 0;
+  padding: 0;
+  font-family: Garamond, serif;
+  font-size: 18px;
+}
+
+.items li {
+  display: inline-block;
+  padding: .5em;
+}
+
+.source a {
+  font-size: 12px;
+  font-family: Helvetica, sans-serif;
+  margin: 1em 0 .5em 0;
+  color: #95a5a6;
+}
+
+.source a:hover {
+  color: #4aa3df;
+}
