@@ -1,0 +1,73 @@
+Draft copy of my content sections:
+
+
+
+
+About me:
+
+--on home page
+
+*short bio about myself, what I do, if I'm working or not and where
+
+
+
+
+
+
+Demo Reel:
+
+--column formatting
+
+*A video of my current demo reel that is linked to the page
+
+
+
+
+
+
+Resume:
+
+*this will be it's own page, with the content formated the same as elements in other content sections. Contains work and education experience, projects, skills,*
+
+
+
+
+
+
+
+Professional Work:
+
+--Column formatting, giving each chunk of content it's own space
+
+*Links to any major projects or games I've worked on, information on what I contributed to the project above link
+
+*Any pieces I've worked on for a company
+
+
+
+
+
+
+
+
+Personal Work:
+
+--grid formatting, links that will show only certain content with the tag on the link (such as "animation" or "VFX")
+
+*The best animations that I've produced for practice or enjoyment
+
+*Any good concept art I've produced for practice or enjoyment
+
+*Any VFX work worth showing
+
+
+
+
+
+
+
+Contact Information:
+
+*This will be it's own page, it will have my email address
+
+*A box of content at the top of the page specifying if I'm looking for work, and if so, what type
